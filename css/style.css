@@ -1,0 +1,269 @@
+.global{
+	width:1200px;
+	margin:0 auto;
+
+
+}
+
+.topbar a{
+	color:black;
+	text-decoration:none;
+	font-size: 30px;
+	margin-right:35px;
+	margin-right:35px;
+	transition:0.3s;
+
+}
+
+.topbar{
+	text-align:center;
+	transition:1s;
+	margin-bottom:20px;
+}
+
+.topbar a:hover{
+	color:darkgrey;
+	text-decoration:underline;
+
+}
+
+body{
+	font-family: 'Kanit', sans-serif;
+	background:#EFECF4 ;
+
+
+}
+
+.bg{
+	height: 400px;
+	width: 800px;
+	background: url(../picture/alexander-schimmeck-ineC_oi7NHs-unsplash.jpg) no-repeat center top / cover;
+	margin: 0 auto;
+	-webkit-box-shadow: 0px 0px 29px -9px rgba(69,34,69,1);
+	-moz-box-shadow: 0px 0px 29px -9px rgba(69,34,69,1);
+	box-shadow: 0px 0px 29px -9px rgba(69,34,69,1);
+	border-radius:10px;
+	
+
+}
+
+.bg h1{
+
+	color: white;
+	text-shadow:
+	-1px -1px 0 #000,  
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+	padding-left:300px;
+	padding-right:300px;
+	padding-bottom:1px;
+	padding-top:100px;
+	background:;
+
+}
+
+.bg p{
+	color: white;
+	text-shadow:
+	-1px -1px 0 #000,  
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+	padding-left:340px;
+	padding-right:340px;
+	padding-bottom:10px;
+	padding-top:1px;
+	background: ;
+}
+
+.bg a{
+	color:black;
+	text-decoration: none;
+	background:#FBF9FB;
+	border-radius:5px;
+	margin-left:370px;
+	margin-right:370px;
+	margin-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+
+.tell p{
+	margin-right:400px;
+	
+}
+
+.tell h3{
+	margin-right:400px;
+
+}
+
+.pic{
+	height:350px;
+	width:300px;
+	margin-left:410px;
+	margin-right:1px;
+	margin-top:-183px;
+	border-radius:10px;
+
+}
+
+.sqare{
+	height:500px;
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+	padding-bottom:150px;
+}
+.employee1{
+	height:500px;
+	width:250px;
+	background: url(../picture/brown-tabby-cat-wearing-shower-cap-4587959.jpg) no-repeat center top / cover;
+	border-radius:30px;
+	-webkit-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	-moz-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+}
+.employee2{
+	height:500px;
+	width:250px;
+	background: url(../picture/russian-blue-cat-on-table-1770918.jpg) no-repeat center top / cover;
+	border-radius:30px;
+	-webkit-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	-moz-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+}
+.employee3{
+	height:500px;
+	width:250px;
+	background: url(../picture/pembroke-welsh-corgi-photography-976924.jpg) no-repeat center top / cover;
+	border-radius:30px;
+	-webkit-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	-moz-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+}
+.employee4{
+	height:500px;
+	width:250px;
+	background: url(../picture/photo-of-siberian-husky-2853422.jpg) no-repeat center top / cover;
+	border-radius:30px;
+	-webkit-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	-moz-box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+	box-shadow: 0px 0px 28px 0px rgba(191,201,219,1);
+}
+
+.tar{
+	background: url(../picture/abstract-architecture-building-exterior-geometric-593158.jpg) no-repeat center top / cover;
+	width:100%;
+	height:400px;
+	display:flex;
+	justify-content: space-around;
+	text-align: center;
+	border-radius:5px;
+	-webkit-box-shadow: 0px 0px 27px 4px rgba(172,175,191,1);
+	-moz-box-shadow: 0px 0px 27px 4px rgba(172,175,191,1);
+	box-shadow: 0px 0px 27px 4px rgba(172,175,191,1);
+
+}
+
+.tar-item{
+	height:100%;
+	width:270px;
+	background: rgba(241, 246, 249,0.6);
+	border-radius:3px;
+}
+
+.tar-item a{
+
+}
+
+.tar1{
+	background: url(../Art/Untitled272.png) no-repeat center top / cover;
+	margin-top: -66px;
+	transition:0.5s;
+	opacity:1;
+	position:relative;
+	z-index:2;
+}
+
+.tar1:hover{
+	opacity: 0;
+}
+.hi3{
+	transition:0.3s;
+	position:relative;
+	z-index:1;
+}
+
+
+
+.tar2{
+	background: url(../Art/Untitled272_20200801003818.png) no-repeat center top / cover;
+	margin-top: -66px;
+	transition:0.5s;
+	opacity:1;
+	position:relative;
+	z-index:2;
+}
+.tar2:hover{
+	opacity:0;
+}
+.tar3{
+	background: url(../Art/Untitled272_20200801003740.png) no-repeat center top / cover;
+	margin-top: -66px;
+	transition:0.5s;
+	opacity:1;
+	position:relative;
+	z-index:2;
+}
+.tar3:hover{
+	opacity:0;
+}
+
+.tar4{
+	background: url(../Art/Untitled272_20200730205918.png) no-repeat center top / cover;
+	margin-top: -66px;
+	transition:0.5s;
+	opacity:1;
+	position:relative;
+	z-index:2;
+}
+.tar4:hover{
+	opacity:0;
+}
+
+.insta{
+	text-decoration: none;
+	color:#3D5177;
+	text-transform: uppercase;
+	text-align: center;
+	width:400px;
+	margin: 0 auto;
+	overflow:hidden;
+	height:20px;
+	padding-bottom: 30px;
+	transition:0.5s;
+}
+
+.instadis{
+	display:flex;
+	width:400px;
+	justify-content: space-around;
+	margin:30px 0px 30px 0px;
+}
+
+.follow{
+	text-decoration:none;
+	color:white;
+	background:#008FFF;
+	border-radius:5px;
+	padding: 5px 5px 5px 5px;
+}
+
+.map{
+	margin-top:40px;
+	border-radius:6px;
+}
